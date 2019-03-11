@@ -1,6 +1,15 @@
 # Project Title : Match-A-Quote
-# Abstract
+
+# Description
 Given a quote, find a picture which best matches the quote.
+
+# Abstract
+We come across a lot of quotes throughout the day. They are motivating and inspirational but most of them are dull in background on plain text. What if we want to put a nice background behind it? We will find the best suitable picture for the given quote because <br>
+"You have to be able to accept failure to get better" <br>
+<br>
+![Quote](/james.jpg)
+
+The above image expresses the emotion inside the quote better than the plain one. So we decided to make the task done!
 
 # Implementation Timeline (Proposed :p)
 
@@ -24,4 +33,4 @@ Given a quote, find a picture which best matches the quote.
 
 # Repository Link 
 
-[https://shashijangra22.github.io/Match-A-Quote/](https://shashijangra22.github.io/Match-A-Quote/)
+[https://shashijangra22.github.io/Match-A-Quote/](https://github.com/shashijangra22/Match-A-Quote)
