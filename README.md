@@ -13,17 +13,14 @@ The above image expresses the emotion inside the quote better than the plain one
 
 # Implementation Timeline (Proposed :p)
 
- - <b> Week 1 : 18-25 March (Image and Quote Collection for DataSet Creation and Analysis) </b>
-  We propose to collect free images available on the internet and quotes along with their authors and categorize them acccording to suitable tags which will help in making clusters of similar quotes and removing stop words from the quotes.
- - <b> Week 2 : 26-2 April (Studying Suitable Models for the project) </b>
-  As the reverse of this project is already implemented, we propose to find a suitable model to do the required.
-  Probably a Neural Network.
- - <b> Week 3 : 3-10 April (Implementation of the chosen model) </b>
-  Training the chosen model on suitable dataset
- - <b> Week 4 : 11-18 April (Testing and performance tuning) </b>
-  Tuning the hyper parameters of the model, cross-validation, regularization and other techniques to improve the model accuracy 
- - <b> Last Week : 26-30 April (Bug Fixes) </b>
-  Beta testing of the model on unseen data and fixing some minor bugs if remains
+ - <b> Week 1 : 18-19 April (Image and Quote Collection for DataSet Creation and Analysis) </b>
+  We propose to collect free images available on the internet and quotes and categorize them acccording to suitable tags which will help in making clusters of similar quotes and removing stop words from the quotes.
+ - <b> Week 2 : 20-21 April (Studying Suitable Algorithms for the project) </b>
+  Giving major weights to the category matches and then small weights to the tags matched, sorting the images based on matching score.
+ - <b> Week 3 : 27-28 April (Implementation of Algorithm) </b>
+  Implementation and testing the algorithm and modifying dataset accordingly.
+ - <b> Week 4 : 29 April (Testing and Results Output) </b>
+  Testing the algorithm on new unseen quotes. 
 
 # Team members
 - Kishan Shankar Singhal (2018201023)
