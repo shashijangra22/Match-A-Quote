@@ -13,13 +13,13 @@ The above image expresses the emotion inside the quote better than the plain one
 
 # Implementation Timeline (Proposed :p)
 
- - <b> Week 1 : 18-19 April (Image and Quote Collection for DataSet Creation and Analysis) </b>
+ - <b> 18-19 April (Image and Quote Collection for DataSet Creation and Analysis) </b>
   We propose to collect free images available on the internet and quotes and categorize them acccording to suitable tags which will help in making clusters of similar quotes and removing stop words from the quotes.
- - <b> Week 2 : 20-21 April (Studying Suitable Algorithms for the project) </b>
+ - <b> 20-21 April (Studying Suitable Algorithms for the project) </b>
   Giving major weights to the category matches and then small weights to the tags matched, sorting the images based on matching score.
- - <b> Week 3 : 27-28 April (Implementation of Algorithm) </b>
+ - <b> 27-28 April (Implementation of Algorithm) </b>
   Implementation and testing the algorithm and modifying dataset accordingly.
- - <b> Week 4 : 29 April (Testing and Results Output) </b>
+ - <b> 29 April (Testing and Results Output) </b>
   Testing the algorithm on new unseen quotes. 
 
 # Team members
